@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../version control test.Dataset"
+    },
+    "byConnection": null
+  }
+}
